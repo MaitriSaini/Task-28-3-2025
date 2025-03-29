@@ -1,1 +1,1 @@
-file c is edited from folder1
+"File c is edited from folder1"
